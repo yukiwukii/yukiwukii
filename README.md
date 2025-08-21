@@ -1,9 +1,9 @@
 ## Hi there 👋🏼
 My name is `Yuki`, and I am an undergraduate student from NTU, Singapore.
 - 🌱 I’m currently exploring ML/AI stuff
-- 🧠 Research interest: NLP + bioinformatics
+- 🧠 Research interest: NLP + AI safety
 - 💬 Fluent in: English + Bahasa
-- 📫 How to reach me: yukiwuki07@gmail.com
+- 📫 How to reach me: nadyayukiw@gmail.com
 
 <!--
 **yukiwukii/yukiwukii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
